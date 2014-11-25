@@ -1,1 +1,1 @@
-My new file
+var something = 'nice change';
