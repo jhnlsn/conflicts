@@ -1,1 +1,1 @@
-My new file
+var g = 'go';
