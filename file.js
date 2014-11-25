@@ -1,1 +1,1 @@
-var g = 'go';
+var something = 'nice change';
